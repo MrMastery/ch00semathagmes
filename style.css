@@ -1,0 +1,35 @@
+html {
+  background-color: #8378d9;
+  height: 100%;
+  width: 100%;
+
+
+/* Style for the top text */
+.top-text {
+    background-color: #647c82; /* Background color for the top section */
+    padding: 40px; /* Add padding for spacing */
+    text-align: center; /* Center the text horizontally */
+    font-family: 'Heather', Heather;
+}
+}
+
+/* Style for the bottom text */
+.bottom-text {
+    background-color: #98afbd; /* Background color for the bottom section */
+    padding: 150px; /* Add padding for spacing */
+    text-align: center; /* Center the text horizontally */
+}
+
+/* Style for the login form */
+.login-form {
+}
+
+
+
+  
+}
+
+
+
+  
+
